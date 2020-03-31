@@ -1,0 +1,10 @@
+.burger {
+    width: 100%;
+    margin: auto;
+    height: 370px;
+    overflow: auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+    max-width: 500px;
+}
